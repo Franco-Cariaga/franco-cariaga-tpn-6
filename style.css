@@ -1,0 +1,73 @@
+.lunes {
+    font-size: 25px;
+    color: aqua;
+}
+
+.martes {
+    font-size: 25px;
+    color: brown;
+}
+
+.miercoles {
+    font-size: 25px;
+    color: blue;
+}
+
+.jueves {
+    font-size: 25px;
+    color: chartreuse;
+}
+
+.viernes {
+    font-size: 25px;
+    color: darkseagreen;
+}
+
+.horario-lun {
+    color: aqua;
+}
+
+.horario-mar {
+    color: brown;
+}
+
+.horario-mier {
+    color: blue;
+}
+
+.horario-jue {
+    color: chartreuse;
+}
+
+.horario-vier {
+    color: darkseagreen;
+}
+
+
+.header {
+    background-color: darkslateblue;
+    height: 90px;
+    width: 100%;
+}
+
+.footer {
+    background-color: darkgrey;
+    height: 100px;
+    width: 100%;
+}
+
+.formulario {
+    border: 5px solid #ccc;
+    width: 50%;
+}
+
+
+ nav ul {
+    display: flex;
+    flex-direction: row;
+    padding: 0 20px;
+    justify-content: space-between;
+    margin: 10px;
+
+    
+}
